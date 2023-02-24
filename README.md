@@ -8,7 +8,7 @@
 
 ## Code 說明
 * import 函式庫 
-urllib 用來從URLs (Uniform Resource Locators) 取得資料的Python模組
+urllib 用來從URLs (Uniform Resource Locators) 取得資料的Python模組  
 json 模組用來解析獲取的json資料
 ```
 import urllib.request as request
